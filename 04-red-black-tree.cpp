@@ -152,6 +152,7 @@ class RedBlackTree {
     }
     void display(Node* n,int depth,const string& label)const {
         if(n==nil)return;
+        // Indentation makes the parent-child relationship visible in the sample output.
         cout<<string(depth*4,' ')<<label<<n->key<<(n->color==RED?" (RED)":" (BLACK)")<<'\n';
         display(n->left,depth+1,"L: ");
         display(n->right,depth+1,"R: ");

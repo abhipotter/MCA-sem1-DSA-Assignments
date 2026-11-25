@@ -163,4 +163,5 @@ LCS: BCBA
 - Added top-down Fibonacci dynamic programming with memoization.
 - Added bottom-up Fibonacci tabulation for comparison.
 - Added a red-black tree with balanced insertion, deletion, and lookup.
+- Documented the colored tree display used by the red-black tree example.
 
