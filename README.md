@@ -161,4 +161,5 @@ LCS: BCBA
 - Added an unbalanced-tree check to the AVL example.
 - Added kth-smallest lookup using augmented AVL nodes.
 - Added top-down Fibonacci dynamic programming with memoization.
+- Added bottom-up Fibonacci tabulation for comparison.
 
