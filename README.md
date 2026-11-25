@@ -159,4 +159,5 @@ LCS: BCBA
 
 - Added AVL tree validation implementation.
 - Added an unbalanced-tree check to the AVL example.
+- Added kth-smallest lookup using augmented AVL nodes.
 
