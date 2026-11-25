@@ -162,4 +162,5 @@ LCS: BCBA
 - Added kth-smallest lookup using augmented AVL nodes.
 - Added top-down Fibonacci dynamic programming with memoization.
 - Added bottom-up Fibonacci tabulation for comparison.
+- Added a red-black tree with balanced insertion, deletion, and lookup.
 
