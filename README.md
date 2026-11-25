@@ -166,4 +166,5 @@ LCS: BCBA
 - Documented the colored tree display used by the red-black tree example.
 - Added matrix-chain multiplication with cost and split tables.
 - Added LCS table construction and subsequence reconstruction.
+- Reviewed the examples, inputs, expected outputs, and complexity notes for final submission.
 
