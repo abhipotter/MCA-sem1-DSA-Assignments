@@ -29,4 +29,6 @@ int main() {
     root.left->left = new Node(5);
     root.left->right = new Node(15);
     cout << boolalpha << "Is AVL: " << isAVL(&root) << endl;
+    root.left->left->left = new Node(2);
+    cout << "After adding 2: " << isAVL(&root) << endl;
 }
