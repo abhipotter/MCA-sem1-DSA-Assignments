@@ -164,4 +164,5 @@ LCS: BCBA
 - Added bottom-up Fibonacci tabulation for comparison.
 - Added a red-black tree with balanced insertion, deletion, and lookup.
 - Documented the colored tree display used by the red-black tree example.
+- Added matrix-chain multiplication with cost and split tables.
 
