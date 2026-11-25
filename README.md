@@ -165,4 +165,5 @@ LCS: BCBA
 - Added a red-black tree with balanced insertion, deletion, and lookup.
 - Documented the colored tree display used by the red-black tree example.
 - Added matrix-chain multiplication with cost and split tables.
+- Added LCS table construction and subsequence reconstruction.
 
